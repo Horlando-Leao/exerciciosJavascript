@@ -1,0 +1,3 @@
+
+-nodeJS[]
+-modulo 'ntp-client'[ comando: "npm install ntp-client --save"
